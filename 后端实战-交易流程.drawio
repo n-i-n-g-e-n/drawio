@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T13:48:33.040Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="yZEIrsu404CCP-wIR6iG" version="22.0.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-10-31T13:49:57.703Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="PG-ODDlZgWuuhVntmuFm" version="22.0.8" type="github" pages="3">
   <diagram name="统一下单" id="auZpU12ey8F-pe9r-_vF">
     <mxGraphModel dx="867" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,8 +113,8 @@
             <mxPoint x="190" y="130" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QjeFNTEYY04HZ6W6PlvU-18" value="3. 更新交易单状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="665" y="150" width="120" height="30" as="geometry" />
+        <mxCell id="QjeFNTEYY04HZ6W6PlvU-18" value="3. 校验交易单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="140" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uiiUXBdGYAxzWQdg1z4R-1" value="" style="ellipse;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="110" width="30" height="30" as="geometry" />
@@ -127,6 +127,9 @@
         </mxCell>
         <mxCell id="uiiUXBdGYAxzWQdg1z4R-5" value="2.回调交易，同步支付结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="460" y="110" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uiiUXBdGYAxzWQdg1z4R-6" value="4. 更新交易单状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="170" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
