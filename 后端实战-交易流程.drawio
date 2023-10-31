@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T13:18:38.939Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="jmhldSdZAn_-O18X1-en" version="22.0.8" type="github">
-  <diagram name="第 1 页" id="auZpU12ey8F-pe9r-_vF">
+<mxfile host="app.diagrams.net" modified="2023-10-31T13:24:21.796Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="UL2EH7CHgqAC09XToInD" version="22.0.8" type="github" pages="2">
+  <diagram name="统一下单" id="auZpU12ey8F-pe9r-_vF">
     <mxGraphModel dx="867" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -81,6 +81,14 @@
         <mxCell id="vB6uRPK6gp7dCQSiaE3m-62" value="返回收银台url" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="348" width="100" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="RQIKe6WuqfLCt96eTh_f" name="交易状态更改接口">
+    <mxGraphModel dx="954" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
