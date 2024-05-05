@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-05T07:01:55.289Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="3gG3X0SwnBMYhgn-n0aB" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-05T13:17:01.316Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="hi8XOYqBr7EJLrgpya2H" version="24.3.1" type="github">
   <diagram name="第 1 页" id="TCEkxnXiP60emrn67t6N">
-    <mxGraphModel dx="1735" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1245" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -191,16 +191,8 @@
         <mxCell id="sb7wllfDJqSQQXLiak6v-69" value="民办非企业单位" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="510" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sb7wllfDJqSQQXLiak6v-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="sb7wllfDJqSQQXLiak6v-71" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="1271" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sb7wllfDJqSQQXLiak6v-71" value="&lt;div&gt;9224&lt;br&gt;社会事务管理机构&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="1241" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sb7wllfDJqSQQXLiak6v-72" value="外国在华文化中心" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="510" y="1241" width="120" height="60" as="geometry" />
+          <mxGeometry x="1190" y="1540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lLhoDnpnd0AAx_HwMcki-2" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;8310&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;学前教育&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="50" y="1390" width="120" height="60" as="geometry" />
@@ -208,89 +200,89 @@
         <mxCell id="lLhoDnpnd0AAx_HwMcki-3" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;8321&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;普通小学教育&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="50" y="1475" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lLhoDnpnd0AAx_HwMcki-4" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;8322&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;成人小学教育&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1550" width="120" height="60" as="geometry" />
+        <mxCell id="lLhoDnpnd0AAx_HwMcki-4" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;8322&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;成人小学教育&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="325" y="2190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lLhoDnpnd0AAx_HwMcki-5" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;8331&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;普通初中教育&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="50" y="1630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lLhoDnpnd0AAx_HwMcki-6" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;8332&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;职业初中教育&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1710" width="120" height="60" as="geometry" />
+        <mxCell id="lLhoDnpnd0AAx_HwMcki-6" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;8332&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;职业初中教育&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lLhoDnpnd0AAx_HwMcki-7" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;8333&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;成人初中教育&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1790" width="120" height="60" as="geometry" />
+        <mxCell id="lLhoDnpnd0AAx_HwMcki-7" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;8333&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;成人初中教育&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="465" y="2190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lLhoDnpnd0AAx_HwMcki-8" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;8334&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;普通高中教育&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="50" y="1870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lLhoDnpnd0AAx_HwMcki-9" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;8335&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;成人高中教育&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1950" width="120" height="60" as="geometry" />
+        <mxCell id="lLhoDnpnd0AAx_HwMcki-9" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;8335&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;成人高中教育&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="195" y="2190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lLhoDnpnd0AAx_HwMcki-10" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;8336&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;中等职业学校教育&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lLhoDnpnd0AAx_HwMcki-10" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;8336&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;中等职业学校教育&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="50" y="2030" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lLhoDnpnd0AAx_HwMcki-11" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;8341&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;普通高等教育&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lLhoDnpnd0AAx_HwMcki-11" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;8341&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;普通高等教育&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="50" y="2110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lLhoDnpnd0AAx_HwMcki-12" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;8342&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;成人高等教育&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lLhoDnpnd0AAx_HwMcki-12" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;8342&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;成人高等教育&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="50" y="2190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lLhoDnpnd0AAx_HwMcki-13" value="&lt;div&gt;&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;8350&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;特殊教育&lt;br&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lLhoDnpnd0AAx_HwMcki-13" value="&lt;div&gt;&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;8350&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;特殊教育&lt;br&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="50" y="2270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lLhoDnpnd0AAx_HwMcki-14" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;8391&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;职业技能培训&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="995" y="1475" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="2360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lLhoDnpnd0AAx_HwMcki-15" value="&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;8411&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;综合医院&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="1550" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="1390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lLhoDnpnd0AAx_HwMcki-16" value="&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;8412&lt;/div&gt;&lt;div&gt;中医医院&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="815" y="1560" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="1475" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lLhoDnpnd0AAx_HwMcki-25" value="&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;8416&lt;/div&gt;&lt;div&gt;疗养院&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="1710" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lLhoDnpnd0AAx_HwMcki-26" value="&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;8425&lt;/div&gt;&lt;div&gt;门诊部（所）&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="1850" width="120" height="60" as="geometry" />
+          <mxGeometry x="615" y="1930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lLhoDnpnd0AAx_HwMcki-27" value="&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;8421&lt;/div&gt;&lt;div&gt;社区卫生服务中（站）&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="915" y="1700" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="1780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lLhoDnpnd0AAx_HwMcki-29" value="&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;8415&lt;/div&gt;&lt;div&gt;专科医院&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1670" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="1720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lLhoDnpnd0AAx_HwMcki-30" value="&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;8424&lt;/div&gt;&lt;div&gt;村卫生室&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="535" y="1900" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="1980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lLhoDnpnd0AAx_HwMcki-31" value="&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;8423&lt;/div&gt;&lt;div&gt;乡镇卫生院&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="1790" width="120" height="60" as="geometry" />
+          <mxGeometry x="465" y="1870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lLhoDnpnd0AAx_HwMcki-32" value="&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;8413&lt;/div&gt;&lt;div&gt;中西医结合医院&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="1594" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="1560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lLhoDnpnd0AAx_HwMcki-33" value="&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;8414&lt;/div&gt;&lt;div&gt;民族医院&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="1594" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lLhoDnpnd0AAx_HwMcki-34" value="&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;8422&lt;/div&gt;&lt;div&gt;街道卫生院&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1055" y="1700" width="120" height="60" as="geometry" />
+          <mxGeometry x="790" y="1780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lLhoDnpnd0AAx_HwMcki-36" value="&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;8431&lt;/div&gt;&lt;div&gt;疾病预防控制中心&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="1930" width="120" height="60" as="geometry" />
+          <mxGeometry x="515" y="2010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lLhoDnpnd0AAx_HwMcki-37" value="&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;8432&lt;/div&gt;&lt;div&gt;专科疾病防治院（所、站)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="1940" width="120" height="60" as="geometry" />
+          <mxGeometry x="665" y="2020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lLhoDnpnd0AAx_HwMcki-38" value="&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;8432&lt;/div&gt;&lt;div&gt;专科疾病防治院（所、站)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1035" y="1830" width="120" height="60" as="geometry" />
+          <mxGeometry x="770" y="1910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lLhoDnpnd0AAx_HwMcki-39" value="&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;8434&lt;/div&gt;&lt;div&gt;急救中心（站）服务&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="1940" width="120" height="60" as="geometry" />
+          <mxGeometry x="855" y="2020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lLhoDnpnd0AAx_HwMcki-40" value="&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;8433&lt;/div&gt;&lt;div&gt;妇幼保健院（所、站）&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="1810" width="120" height="60" as="geometry" />
+          <mxGeometry x="895" y="1890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lLhoDnpnd0AAx_HwMcki-41" value="&lt;div&gt;&lt;div&gt;9226&lt;/div&gt;&lt;div&gt;行政监督检查机构&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="950" width="120" height="60" as="geometry" />
+          <mxGeometry x="865" y="1241" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lLhoDnpnd0AAx_HwMcki-42" value="&lt;div&gt;&lt;div&gt;9512&lt;/div&gt;&lt;div&gt;妇联&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="1100" width="120" height="60" as="geometry" />
@@ -302,28 +294,40 @@
           <mxGeometry x="1190" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lLhoDnpnd0AAx_HwMcki-45" value="&lt;div&gt;&lt;div&gt;9223&lt;/div&gt;&lt;div&gt;公共安全管理机构&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="1190" y="1370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lLhoDnpnd0AAx_HwMcki-46" value="&lt;div&gt;&lt;div&gt;9232&lt;/div&gt;&lt;div&gt;人民法院&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="1000" width="120" height="60" as="geometry" />
+        <mxCell id="lLhoDnpnd0AAx_HwMcki-46" value="&lt;div&gt;&lt;div&gt;9232&lt;/div&gt;&lt;div&gt;人民法院&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lLhoDnpnd0AAx_HwMcki-47" value="9233&#xa;人民检察院" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="910" width="120" height="60" as="geometry" />
+        <mxCell id="lLhoDnpnd0AAx_HwMcki-47" value="9233&#xa;人民检察院" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lLhoDnpnd0AAx_HwMcki-48" value="&lt;div&gt;&lt;div&gt;9310&lt;/div&gt;&lt;div&gt;人民政协&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1260" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lLhoDnpnd0AAx_HwMcki-49" value="&lt;div&gt;&lt;div&gt;9100&lt;/div&gt;&lt;div&gt;中国共产党机关&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="910" width="120" height="60" as="geometry" />
+          <mxGeometry x="730" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lLhoDnpnd0AAx_HwMcki-51" value="&lt;div&gt;&lt;div&gt;9291&lt;/div&gt;&lt;div&gt;消防管理机构&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="690" width="120" height="60" as="geometry" />
+        <mxCell id="lLhoDnpnd0AAx_HwMcki-51" value="&lt;div&gt;&lt;div&gt;9291&lt;/div&gt;&lt;div&gt;消防管理机构&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lLhoDnpnd0AAx_HwMcki-52" value="&lt;div&gt;&lt;div&gt;9320&lt;/div&gt;&lt;div&gt;民主党派&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="415" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lLhoDnpnd0AAx_HwMcki-53" value="&lt;div&gt;&lt;div&gt;9222&lt;/div&gt;&lt;div&gt;对外事务管理机构&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="1160" width="120" height="60" as="geometry" />
+          <mxGeometry x="1190" y="1450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lLhoDnpnd0AAx_HwMcki-57" value="&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;8392&lt;br&gt;&lt;/span&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 10px; line-height: normal; font-family: SimSong; text-align: start;&quot; class=&quot;p1&quot;&gt;体校及体育培训&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="220" y="2360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lLhoDnpnd0AAx_HwMcki-58" value="看起来可以通过内容识别,暂时不训练，数据比较难找" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="2520" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lLhoDnpnd0AAx_HwMcki-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lLhoDnpnd0AAx_HwMcki-14" target="lLhoDnpnd0AAx_HwMcki-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLhoDnpnd0AAx_HwMcki-60" value="百度健康可以获取到数据" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1500" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
