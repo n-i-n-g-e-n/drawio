@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-18T12:48:01.962Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="RtP6nIg4hKx2HBK6Kjhj" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-18T13:20:24.203Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="PqNt2UlxMBhJqBJ7cGB4" version="24.4.4" type="github">
   <diagram name="第 1 页" id="jT26UlKxzPeDTNE08l-G">
-    <mxGraphModel dx="2099" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2562" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
           <mxGeometry x="540" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YIXe7dkXcQXMwNuAOFVq-9" value="调用python服务&lt;div&gt;入参：企业名称&lt;/div&gt;&lt;div&gt;出参：行业信息&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="70" y="220" width="130" height="140" as="geometry" />
+          <mxGeometry x="-360" y="130" width="170" height="200" as="geometry" />
         </mxCell>
         <mxCell id="YIXe7dkXcQXMwNuAOFVq-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YIXe7dkXcQXMwNuAOFVq-14" target="YIXe7dkXcQXMwNuAOFVq-16">
           <mxGeometry relative="1" as="geometry" />
@@ -61,7 +61,7 @@
           <mxGeometry x="75" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YIXe7dkXcQXMwNuAOFVq-26" value="非工商是通过判断企业后缀来实现，比如是集团、公司、店等等结尾的都属于工商组织" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="460" width="130" height="140" as="geometry" />
+          <mxGeometry x="-360" y="450" width="130" height="140" as="geometry" />
         </mxCell>
         <mxCell id="YIXe7dkXcQXMwNuAOFVq-30" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="285" y="730" width="30" height="30" as="geometry" />
@@ -119,6 +119,18 @@
         </mxCell>
         <mxCell id="YIXe7dkXcQXMwNuAOFVq-55" value="调用python服务,基于预训练的模型" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="730" y="835" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="YIXe7dkXcQXMwNuAOFVq-56" value="&lt;div&gt;预训练好的&lt;/div&gt;组织机构模型，可以通过名称判断所属的行业小类" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="630" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="YIXe7dkXcQXMwNuAOFVq-57" value="组织机构模型" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIXe7dkXcQXMwNuAOFVq-58" value="行业中类模型" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="900" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIXe7dkXcQXMwNuAOFVq-60" value="语义相似度计算模型" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
