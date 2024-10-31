@@ -1,17 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2024-10-31T13:31:54.025Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Ph_Z0tlOp93bc0urQtaK" version="24.6.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-10-31T13:36:29.522Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="mkoMI-EyV2Y4fl_M-mwe" version="24.6.5" type="github" pages="3">
   <diagram name="个人履历" id="IWwo7FjKMm7bNn32PKfu">
     <mxGraphModel dx="954" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="q5TmISiHZqiKsyFEUvU4-1" value="2022.04-2023.04&lt;div&gt;角色&lt;/div&gt;&lt;div&gt;成果&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="40" width="220" height="120" as="geometry" />
+          <mxGeometry x="130" y="10" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="q5TmISiHZqiKsyFEUvU4-2" value="2022.04-2023.04&lt;div&gt;角色:架构/研发负责&lt;/div&gt;&lt;div&gt;成果：&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="220" width="220" height="120" as="geometry" />
+          <mxGeometry x="420" y="140" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="q5TmISiHZqiKsyFEUvU4-3" value="2022.04-2023.04&lt;div&gt;角色:架构/项目经理&lt;/div&gt;&lt;div&gt;成果：&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="400" width="220" height="120" as="geometry" />
+          <mxGeometry x="140" y="294" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="q5TmISiHZqiKsyFEUvU4-4" value="1、 善于沟通" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="500" y="380" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q5TmISiHZqiKsyFEUvU4-5" value="2、能拿结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="500" y="440" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q5TmISiHZqiKsyFEUvU4-6" value="3、闭环思维" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="525" y="500" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q5TmISiHZqiKsyFEUvU4-8" value="技术leader,可以打造一个高质量的团队" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="540" width="210" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
