@@ -1,29 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2024-10-31T13:36:29.522Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="mkoMI-EyV2Y4fl_M-mwe" version="24.6.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-10-31T13:49:50.280Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="PyQi6ErI1m-FbTDncymZ" version="24.6.5" type="github" pages="3">
   <diagram name="个人履历" id="IWwo7FjKMm7bNn32PKfu">
     <mxGraphModel dx="954" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="q5TmISiHZqiKsyFEUvU4-1" value="2022.04-2023.04&lt;div&gt;角色&lt;/div&gt;&lt;div&gt;成果&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="10" width="220" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="q5TmISiHZqiKsyFEUvU4-2" value="2022.04-2023.04&lt;div&gt;角色:架构/研发负责&lt;/div&gt;&lt;div&gt;成果：&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="140" width="220" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="q5TmISiHZqiKsyFEUvU4-3" value="2022.04-2023.04&lt;div&gt;角色:架构/项目经理&lt;/div&gt;&lt;div&gt;成果：&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="294" width="220" height="120" as="geometry" />
+        <mxCell id="q5TmISiHZqiKsyFEUvU4-1" value="&lt;h1&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;2022.04-2023.02&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;指标云平台&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;【定位】&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;核心开发&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;【项目成绩&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;】&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;1、指标查询服务tp99优化；&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;【个人成绩】&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;1、开发异步任务框架,部门内分享；&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="130" y="10" width="250" height="190" as="geometry" />
         </mxCell>
         <mxCell id="q5TmISiHZqiKsyFEUvU4-4" value="1、 善于沟通" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="500" y="380" width="170" height="40" as="geometry" />
+          <mxGeometry x="670" y="510" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q5TmISiHZqiKsyFEUvU4-5" value="2、能拿结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="500" y="440" width="170" height="30" as="geometry" />
+          <mxGeometry x="670" y="570" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q5TmISiHZqiKsyFEUvU4-6" value="3、闭环思维" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="525" y="500" width="120" height="30" as="geometry" />
+          <mxGeometry x="695" y="630" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q5TmISiHZqiKsyFEUvU4-8" value="技术leader,可以打造一个高质量的团队" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="540" width="210" height="100" as="geometry" />
+          <mxGeometry x="460" y="640" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="q5TmISiHZqiKsyFEUvU4-9" value="&lt;h1&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;2023.03-2024.04&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;资产管理平台&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;【定位】&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;架构/研发负责人&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;【项目成绩】&lt;/div&gt;&lt;div&gt;&lt;b&gt;1、重构元数据架构；&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;2、重构质检平台&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;3、打通端到端数据血缘；&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;【个人成绩】&lt;/div&gt;&lt;div&gt;&lt;b&gt;1、2023年产险优秀员工&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;2、23年平安集团AIGC创新大赛第七名（团队成员）&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;3、23年产险后端技术训练营优秀队长、优秀学员&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="450" y="130" width="390" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="q5TmISiHZqiKsyFEUvU4-11" value="&lt;h1&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;2024.04-至今&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;统一监管报送平台&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;b&gt; 定位：架构/项目经理/研发负责人&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;1、开发异步任务框架,部门内分享；&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;2、指标查询服务tp99优化；&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="130" y="370" width="250" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
