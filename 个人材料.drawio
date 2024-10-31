@@ -1,35 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2024-10-31T13:57:30.566Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="TCIpNa3DoFZuzwrybH_8" version="24.6.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-10-31T14:23:16.911Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="wNMHta6FP8-DPN8sjVdD" version="24.6.5" type="github" pages="3">
   <diagram name="个人履历" id="IWwo7FjKMm7bNn32PKfu">
-    <mxGraphModel dx="1908" dy="1212" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="909" dy="577" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="q5TmISiHZqiKsyFEUvU4-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=12 12;startArrow=oval;startFill=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="q5TmISiHZqiKsyFEUvU4-1" target="q5TmISiHZqiKsyFEUvU4-9">
+        <mxCell id="q5TmISiHZqiKsyFEUvU4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=oval;startFill=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="q5TmISiHZqiKsyFEUvU4-1" target="q5TmISiHZqiKsyFEUvU4-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q5TmISiHZqiKsyFEUvU4-1" value="&lt;h1&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;2022.04-2023.02&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;指标云平台&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;【定位】&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;核心开发&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;【项目成绩&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;】&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;1、指标查询服务tp99优化；&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;【个人成绩】&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;1、开发异步任务框架,部门内分享；&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="q5TmISiHZqiKsyFEUvU4-1" value="&lt;h1&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;2022.04-2023.02&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;指标云平台&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;【定位】&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;核心开发&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;【项目成绩&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;】&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;1、指标查询服务tp99优化；&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;【个人成绩】&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;1、开发异步任务框架,部门内分享；&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="170" y="9" width="400" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="q5TmISiHZqiKsyFEUvU4-4" value="1、 善于沟通" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="340" y="1060" width="170" height="40" as="geometry" />
+        <mxCell id="q5TmISiHZqiKsyFEUvU4-4" value="善于沟通" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=50;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="493" y="1171" width="326" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="q5TmISiHZqiKsyFEUvU4-5" value="2、能拿结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="340" y="1120" width="170" height="30" as="geometry" />
+        <mxCell id="q5TmISiHZqiKsyFEUvU4-8" value="希望在三年内可以成长为一个合格的技术leader," style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="163" y="1707" width="504" height="229" as="geometry" />
         </mxCell>
-        <mxCell id="q5TmISiHZqiKsyFEUvU4-6" value="3、闭环思维" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="365" y="1180" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="q5TmISiHZqiKsyFEUvU4-8" value="技术leader,可以打造一个高质量的团队" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="1850" width="210" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="q5TmISiHZqiKsyFEUvU4-9" value="&lt;h1&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;2023.03-2024.04&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;资产管理平台&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;【定位】&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;架构/研发负责人&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;【项目成绩】&lt;/div&gt;&lt;div&gt;&lt;b&gt;1、重构元数据架构；&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;2、重构质检平台&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;3、打通端到端数据血缘；&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;【个人成绩】&lt;/div&gt;&lt;div&gt;&lt;b&gt;1、2023年产险优秀员工&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;2、23年平安集团AIGC创新大赛第七名（团队成员）&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;3、23年产险后端技术训练营优秀队长、优秀学员&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="q5TmISiHZqiKsyFEUvU4-9" value="&lt;h1&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;2023.03-2024.04&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;资产管理平台&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;【定位】&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;架构/研发负责人&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;【项目成绩】&lt;/div&gt;&lt;div&gt;&lt;b&gt;1、重构元数据架构；&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;2、重构质检平台&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;3、打通端到端数据血缘；&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;【个人成绩】&lt;/div&gt;&lt;div&gt;&lt;b&gt;1、2023年产险优秀员工&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;2、23年平安集团AIGC创新大赛第七名（团队成员）&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;3、23年产险后端技术训练营优秀队长、优秀学员&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="680" y="259" width="400" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="q5TmISiHZqiKsyFEUvU4-11" value="&lt;h1&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;2024.04-至今&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;统一监管报送平台&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;【定位】&lt;/div&gt;&lt;div&gt;&lt;b&gt;架构/项目经理/研发负责人&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;【项目成绩】&lt;/div&gt;&lt;div&gt;&lt;b&gt;1、总部报送流程线上化、监管规则线上化、报送问题线上化；&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;2、机构报送线上化管理；&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="q5TmISiHZqiKsyFEUvU4-11" value="&lt;h1&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;2024.04-至今&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;统一监管报送平台&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;【定位】&lt;/div&gt;&lt;div&gt;&lt;b&gt;架构/项目经理/研发负责人&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;【项目成绩】&lt;/div&gt;&lt;div&gt;&lt;b&gt;1、总部报送流程线上化、监管规则线上化、报送问题线上化；&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;2、机构报送线上化管理；&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="170" y="519" width="400" height="300" as="geometry" />
         </mxCell>
         <mxCell id="q5TmISiHZqiKsyFEUvU4-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.471;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=oval;startFill=0;endArrow=oval;endFill=1;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="q5TmISiHZqiKsyFEUvU4-9" target="q5TmISiHZqiKsyFEUvU4-11">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q5TmISiHZqiKsyFEUvU4-16" value="能拿结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=50;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="489" y="964" width="326" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q5TmISiHZqiKsyFEUvU4-17" value="闭环思维" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=50;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="493" y="1404" width="326" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q5TmISiHZqiKsyFEUvU4-19" value="1" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.25,0],[0.75,0],[1,0.25],[1,0.75],[0.75,1],[0.25,1],[0,0.75],[0,0.25]];polyline=0;labelPosition=center;align=center;fontSize=50;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="361" y="958" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="q5TmISiHZqiKsyFEUvU4-20" value="2" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.25,0],[0.75,0],[1,0.25],[1,0.75],[0.75,1],[0.25,1],[0,0.75],[0,0.25]];polyline=0;labelPosition=center;align=center;fontSize=50;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="369" y="1165" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="q5TmISiHZqiKsyFEUvU4-21" value="3" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.25,0],[0.75,0],[1,0.25],[1,0.75],[0.75,1],[0.25,1],[0,0.75],[0,0.25]];polyline=0;labelPosition=center;align=center;fontSize=50;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1392" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="q5TmISiHZqiKsyFEUvU4-23" value="脚本1&lt;div&gt;开场白：自我介绍&lt;/div&gt;&lt;div&gt;我是辣子xx团队xx小组&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="16" y="14" width="127" height="773" as="geometry" />
+        </mxCell>
+        <mxCell id="q5TmISiHZqiKsyFEUvU4-24" value="脚本2&lt;div&gt;过度到能力优势&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="23" y="852" width="127" height="196" as="geometry" />
+        </mxCell>
+        <mxCell id="q5TmISiHZqiKsyFEUvU4-25" value="脚本3&lt;div&gt;过度到未来规划&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;目前在组内担任架构职责，也承担部分团队的管理，在bi分析这样一个介乎于技术团队和交付团队的分组中，让我&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="31" y="1382" width="127" height="196" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
