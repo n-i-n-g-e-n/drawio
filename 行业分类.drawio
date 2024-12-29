@@ -1,28 +1,59 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.1">
   <diagram name="中类判断原理" id="3D5tGI04LKTCeSfqhWmO">
-    <mxGraphModel dx="1590" dy="1008" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1468" dy="931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OQnt6c_Q4eF0kz0fsPzN-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;一、数据准备&lt;/h1&gt;&lt;p&gt;&lt;font&gt;基于国标文件进行数据清理，补充自身维护的行业词库，最终在中类维度准备好对应的语料数据&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#82b366;dashed=1;fillColor=#d5e8d4;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="10" y="190" width="280" height="300" as="geometry" />
+        <mxCell id="OQnt6c_Q4eF0kz0fsPzN-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;一、中类数据准备&lt;/h1&gt;&lt;p&gt;&lt;font&gt;基于国标文件进行数据清理，补充自身维护的行业词库，最终在中类维度准备好对应的语料数据&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#82b366;dashed=1;fillColor=#d5e8d4;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="15" y="38" width="280" height="300" as="geometry" />
         </mxCell>
         <mxCell id="OQnt6c_Q4eF0kz0fsPzN-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;二、模型训练&lt;/h1&gt;&lt;p&gt;基于阶段一的训练数据进行bert模型训练，得到一个可以进行行业中类判断的模型&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#82b366;dashed=1;fillColor=#d5e8d4;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="445" y="190" width="280" height="300" as="geometry" />
+          <mxGeometry x="450" y="38" width="280" height="300" as="geometry" />
         </mxCell>
         <mxCell id="OQnt6c_Q4eF0kz0fsPzN-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;三、中类判断&lt;/h1&gt;&lt;p&gt;通过训练好的bert模型进行top5判断，得到前五个中类&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#82b366;dashed=1;fillColor=#d5e8d4;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="880" y="190" width="280" height="300" as="geometry" />
+          <mxGeometry x="885" y="38" width="280" height="300" as="geometry" />
         </mxCell>
         <mxCell id="OQnt6c_Q4eF0kz0fsPzN-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="330" as="sourcePoint" />
-            <mxPoint x="410" y="330" as="targetPoint" />
+            <mxPoint x="325" y="178" as="sourcePoint" />
+            <mxPoint x="415" y="178" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OQnt6c_Q4eF0kz0fsPzN-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="760" y="330" as="sourcePoint" />
-            <mxPoint x="850" y="330" as="targetPoint" />
+            <mxPoint x="765" y="178" as="sourcePoint" />
+            <mxPoint x="855" y="178" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OQnt6c_Q4eF0kz0fsPzN-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;四、小类数据处理&lt;/h1&gt;&lt;p&gt;基于国标文件以及自身维护的行业数据，对每一个小类的数据进行处理，最终得到一个小类维度对应的语料数据&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#82b366;dashed=1;fillColor=#d5e8d4;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="15" y="490" width="280" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="OQnt6c_Q4eF0kz0fsPzN-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="332" y="628" as="sourcePoint" />
+            <mxPoint x="422" y="628" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OQnt6c_Q4eF0kz0fsPzN-8" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;五、语义判断&lt;/h1&gt;&lt;div&gt;通过关键词匹配、浅层语义匹配、深度语义匹配模型等多种方式结合进行输入内容和小类数据的语义进行相似度判断，最终给出一个合理的权重&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#82b366;dashed=1;fillColor=#d5e8d4;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="445" y="490" width="280" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="OQnt6c_Q4eF0kz0fsPzN-9" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;六、小类判断&lt;/h1&gt;&lt;div&gt;集合语义判断结果和用户输入内容的业务分析，最终排序给出一个最接近的小类数据。&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#82b366;dashed=1;fillColor=#d5e8d4;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="885" y="480" width="280" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="OQnt6c_Q4eF0kz0fsPzN-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="625" as="sourcePoint" />
+            <mxPoint x="850" y="625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OQnt6c_Q4eF0kz0fsPzN-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1044" y="362" as="sourcePoint" />
+            <mxPoint x="118" y="478" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1044" y="424" />
+              <mxPoint x="118" y="424" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
