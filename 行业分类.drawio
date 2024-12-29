@@ -1,9 +1,30 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.1">
   <diagram name="中类判断原理" id="3D5tGI04LKTCeSfqhWmO">
-    <mxGraphModel dx="1193" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1590" dy="1008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OQnt6c_Q4eF0kz0fsPzN-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;一、数据准备&lt;/h1&gt;&lt;p&gt;&lt;font&gt;基于国标文件进行数据清理，补充自身维护的行业词库，最终在中类维度准备好对应的语料数据&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#82b366;dashed=1;fillColor=#d5e8d4;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="10" y="190" width="280" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="OQnt6c_Q4eF0kz0fsPzN-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;二、模型训练&lt;/h1&gt;&lt;p&gt;基于阶段一的训练数据进行bert模型训练，得到一个可以进行行业中类判断的模型&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#82b366;dashed=1;fillColor=#d5e8d4;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="445" y="190" width="280" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="OQnt6c_Q4eF0kz0fsPzN-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;三、中类判断&lt;/h1&gt;&lt;p&gt;通过训练好的bert模型进行top5判断，得到前五个中类&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#82b366;dashed=1;fillColor=#d5e8d4;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="880" y="190" width="280" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="OQnt6c_Q4eF0kz0fsPzN-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="330" as="sourcePoint" />
+            <mxPoint x="410" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OQnt6c_Q4eF0kz0fsPzN-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="330" as="sourcePoint" />
+            <mxPoint x="850" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
